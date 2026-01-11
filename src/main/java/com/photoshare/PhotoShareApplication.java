@@ -19,4 +19,3 @@ public class PhotoShareApplication {
         return http.build();
     }
 }
-```
